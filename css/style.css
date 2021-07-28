@@ -11,5 +11,5 @@ header {
   transition: all 0.2s ease-in;
 }
 .card:hover {
-  transform: scale(1.02);
+  transform: scale(1.05);
 }
