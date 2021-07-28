@@ -7,3 +7,9 @@ header {
 .card-bg {
   background-color: #f1f1f1;
 }
+.card {
+  transition: all 0.2s ease-in;
+}
+.card:hover {
+  transform: scale(1.02);
+}
